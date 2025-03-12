@@ -23,3 +23,8 @@ detection_img/
 # swap files
 *.swp
 .~*
+
+#
+.zip
+.rar
+.7z
