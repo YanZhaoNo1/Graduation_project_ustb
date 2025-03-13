@@ -14,7 +14,7 @@ _deps
 build/
 devel/
 detection_img/
-.catkin_workspace
+*.catkin_workspace
 
 # vscode config
 
@@ -25,7 +25,7 @@ detection_img/
 .~*
 
 #
-.zip
-.rar
-.7z
-查重报告
+*.zip
+*.rar
+*.7z
+查重报告/
